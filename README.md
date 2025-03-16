@@ -60,7 +60,7 @@ spring:
 Or build and run a GraalVM native image:
 ```sh
 ./mvnw package -Pnative native:compile
-./target/design-pattern-assistant
+./target/native-image-name
 ```
 
 ### 6️⃣ Using the CLI
