@@ -48,6 +48,9 @@ spring:
   ai:
     openai:
       api-key: your-openai-api-key
+      chat:
+        options:
+          model: gpt_model
 ```
 
 ### 5️⃣ Run the Application
