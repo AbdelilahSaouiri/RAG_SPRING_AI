@@ -64,6 +64,6 @@ Or build and run a GraalVM native image:
 ```
 
 ### 6️⃣ Using the CLI
-Start the interactive assistant:
+Start the interactive assistant
 
 
